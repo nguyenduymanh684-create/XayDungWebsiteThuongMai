@@ -1,1 +1,2 @@
-// Buoi 1 chua can JavaScript tu viet; Bootstrap JS duoc nap trong layout.
+// public/assets/js/main.js
+// JavaScript dung chung (se bo sung o cac buoi sau)
